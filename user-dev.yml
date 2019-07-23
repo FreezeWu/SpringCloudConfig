@@ -21,4 +21,4 @@ eureka:
       prefer-ip-address: true
 
 test:
-  name: Taeyeon
+  name: Yoshina
