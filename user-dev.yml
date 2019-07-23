@@ -1,3 +1,4 @@
+# configuration for user-service
 server:
   port: ${port:9091}
 spring:
